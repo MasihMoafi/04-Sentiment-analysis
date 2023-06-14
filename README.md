@@ -1,2 +1,2 @@
 # Sentiment-analysis
-NLP, logistic regression, handling bad data
+NLP, logistic regression/ tree ensemble, handling bad data
