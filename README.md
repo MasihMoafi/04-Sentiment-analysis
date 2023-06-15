@@ -21,6 +21,8 @@ To run the project, make sure you have the following dependencies installed:
 
 Install the required libraries using the following command:
 
+shell
+
 pip install pandas numpy nltk scikit-learn
 
 Additionally, download the NLTK data by running the following commands:
