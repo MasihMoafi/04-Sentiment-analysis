@@ -1,8 +1,10 @@
-NLP Project: Sentiment Analysis Using Logistic Regression and Random Forest
-Project Overview
+## NLP Project: Sentiment Analysis Using Logistic Regression and Random Forest
+
+### Project Overview
 
 This project focuses on sentiment analysis using text classification techniques, specifically logistic regression and random forest classifiers. The goal is to predict whether a given tweet is indicative of an actual disaster or not. The project is based on the Kaggle competition called "Disaster Tweets," where the dataset and additional information can be found.
-Methods Used
+
+### Methods Used
 
     Lemmatization: The text data is preprocessed using lemmatization, which reduces words to their base form. This helps in standardizing the vocabulary and improving the accuracy of the models.
 
@@ -16,6 +18,6 @@ Methods Used
 
     Model Comparison: The classification reports are generated for both logistic regression and random forest models to evaluate their performance. The metrics in the reports provide insights into precision, recall, and F1-score for each class, helping assess the models' effectiveness.
 
-Best Performing Models
+### Best Performing Models
 
-From the various algorithms used, both logistic regression and random forest classifiers demonstrated the best performance in this sentiment analysis task.
+From the various algorithms used, both logistic regression and random forest classifiers demonstrated the best performance.
